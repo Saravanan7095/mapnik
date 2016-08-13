@@ -50,7 +50,7 @@ function install_mason_deps() {
     install jpeg_turbo 1.5.0 libjpeg &
     install libpng 1.6.24 libpng &
     install libtiff 4.0.6 libtiff &
-    install libpq 9.4.1 &
+    install libpq 9.5.2 &
     install sqlite 3.14.1 libsqlite3 &
     install expat 2.2.0 libexpat &
     install icu ${ICU_VERSION} &
